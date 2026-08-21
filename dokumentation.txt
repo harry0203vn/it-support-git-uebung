@@ -1,0 +1,5 @@
+Dokumentation zur Git-Übung
+
+In diesem Projekt wird geübt, wie Änderungen mit Git gespeichert werden.
+Die Dateien werden zuerst lokal geändert und danach zu GitHub übertragen.
+Branches helfen dabei, Änderungen getrennt vom Hauptstand vorzubereiten.
