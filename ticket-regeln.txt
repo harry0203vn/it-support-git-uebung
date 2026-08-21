@@ -1,0 +1,6 @@
+Regeln für die Ticketbearbeitung
+
+1. Jedes Ticket braucht einen klaren Betreff.
+2. Die Beschreibung muss verständlich sein.
+3. Wichtige Informationen sollen vollständig dokumentiert werden.
+4. Nach der Lösung wird das Ticket sauber abgeschlossen.
