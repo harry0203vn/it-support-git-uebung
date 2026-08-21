@@ -1,0 +1,7 @@
+Support-Checkliste
+
+1. Problem des Benutzers aufnehmen
+2. Betroffenes System notieren
+3. Fehlermeldung dokumentieren
+4. Erste Analyse durchführen
+5. Lösung oder nächsten Schritt festhalten
