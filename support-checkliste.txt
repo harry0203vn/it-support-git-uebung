@@ -5,3 +5,5 @@ Support-Checkliste
 3. Fehlermeldung dokumentieren
 4. Erste Analyse durchführen
 5. Lösung oder nächsten Schritt festhalten
+6. Rückmeldung an den Benutzer geben
+7. Ticket mit kurzer Lösungsbeschreibung schließen
